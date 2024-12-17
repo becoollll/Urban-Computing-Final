@@ -1,0 +1,17 @@
+pandas
+numpy
+seaborn
+matplotlib
+geopandas
+scipy
+statsmodels
+folium
+plotly
+pyarrow
+tqdm
+dask
+dask-ml
+psutil
+shapely
+scikit-learn
+xgboost
